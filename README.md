@@ -4,7 +4,7 @@
 
 13+ years of experience building scalable web applications, APIs, and distributed systems.
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pavan-kumar-batthula/)) · [Email](mailto:pavan.kumar02@yahoo.com)
+[LinkedIn](https://www.linkedin.com/in/pavan-kumar-batthula/) · [Email](mailto:pavan.kumar02@yahoo.com)
 
 ## 👨‍💻 About Me
 
@@ -147,12 +147,8 @@ improving:
   - System design
   - Distributed systems
   - Production observability
+```
 
-# 9. Next — Technology Stack
-
-Put your visual badges/icons here.
-
-```markdown
 ## 🛠️ Technology Stack
 
 ### Backend
